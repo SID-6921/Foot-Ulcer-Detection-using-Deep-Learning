@@ -1,0 +1,25 @@
+
+diabetic foot ulcer (DFU)
+
+About Dataset
+Context
+This dataset has four folders
+1- Original Images: these are collected from the medical center
+
+2- Patches: extracted from the Original Images in the size of 224 x 224.
+TestSet: images to test the trained model
+
+Transfer-Learning image: These are the set that is used for transfer learning purpose
+
+In order to use the dataset, please cite the following papers as a source of the dataset.
+
+1- Alzubaidi, L., Fadhel, M. A., Oleiwi, S. R., Al-Shamma, O., & Zhang, J. (2020). DFU_QUTNet: diabetic foot ulcer classification using novel deep convolutional neural network. Multimedia Tools and Applications, 79(21), 15655-15677.
+
+2- Alzubaidi, Laith, Mohammed A. Fadhel, Omran Al-Shamma, Jinglan Zhang, J. Santamaría, and Ye Duan. "Robust application of new deep learning tools: an experimental study in medical imaging." Multimedia Tools and Applications (2021): 1-29.
+
+3- Alzubaidi, Laith, Mohammed A. Fadhel, Omran Al-Shamma, Jinglan Zhang, J. Santamaría, Ye Duan, and Sameer R Oleiwi. "Towards a better understanding of transfer learning for medical imaging: a case study." Applied Sciences 10, no. 13 (2020): 4523.
+
+For more details about the dataset, please check the mentioned papers.
+
+
+DATASET --- https://www.kaggle.com/datasets/laithjj/diabetic-foot-ulcer-dfu/data
